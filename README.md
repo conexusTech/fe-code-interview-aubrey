@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Testing
+
+<img width="563" alt="image" src="https://github.com/user-attachments/assets/193d5581-8a0c-49ad-a2ca-016ea0eff246">
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
